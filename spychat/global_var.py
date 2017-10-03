@@ -15,4 +15,4 @@ def select_friend():
         print "Wrong choice"
         exit(0)
 def ty() :
-    print "thank you!!! \n project crated by :- Bishal Sinha 3rd Sinha"
+    print "thank you!!! \n project crated by :- Bishal Sinha 3rd Yr"
